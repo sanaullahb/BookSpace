@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookSpace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50b3ffaafe7d5d5992f03f6e30d033f73afb4d78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26280bac326e74136f1d9ef094696372118f5640")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookSpace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookSpace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
