@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookSpace", "BookSpace\BookSpace.csproj", "{A2AD5453-3017-4770-9505-12EC1BE6C737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AD5453-3017-4770-9505-12EC1BE6C737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AD5453-3017-4770-9505-12EC1BE6C737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AD5453-3017-4770-9505-12EC1BE6C737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AD5453-3017-4770-9505-12EC1BE6C737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5505BFC-50A2-40E8-A6D8-22A41B553694}
+	EndGlobalSection
+EndGlobal
